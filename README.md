@@ -7,5 +7,6 @@ pip install tkinter
 
 or 
 
-# conda install pickles 
-# conda install pickles
+conda install pickles 
+
+conda install tkinter
